@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkfood_mall"]=self["webpackChunkfood_mall"]||[]).push([[281],{3264:function(n,e,t){function u(n,e,t,u,r,o){return null}t.r(e),t.d(e,{default:function(){return l}});var r=t(4870),o={name:"ListsViewPc",components:{},setup(){const n=(0,r.qj)({});return{...(0,r.BK)(n)}}},s=t(89);const c=(0,s.Z)(o,[["render",u]]);var l=c}}]);
-//# sourceMappingURL=listsViewPc.fff7ff34.js.map
