@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkfood_mall"]=self["webpackChunkfood_mall"]||[]).push([[678],{6906:function(n,e,t){function u(n,e,t,u,r,o){return null}t.r(e),t.d(e,{default:function(){return s}});var r=t(4870),o={name:"MyViewPc",components:{},setup(){const n=(0,r.qj)({});return{...(0,r.BK)(n)}}},c=t(89);const l=(0,c.Z)(o,[["render",u]]);var s=l}}]);
-//# sourceMappingURL=myViewPc.73f092f1.js.map
